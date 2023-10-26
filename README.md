@@ -1,1 +1,1 @@
-# odin-recipes
+This is my website for recipes. Everything should be in order per the assignment. # odin-recipes
